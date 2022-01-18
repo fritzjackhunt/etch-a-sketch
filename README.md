@@ -11,3 +11,5 @@ The "ERASER" button will erase the etched pixels, therefore returning it to its 
 The "CLEAR" button will clear the whole grid back to its original state as a new one all over again
 
 Happy etching!!! 
+
+![Project Screenshot](https://fritzjackhunt.github.io/etch-a-sketch/assets/images/sketch.png)
